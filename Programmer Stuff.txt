@@ -12,8 +12,6 @@ Sayings
 ---------------------------------------------------------------------
 -> Everything should be made as simple as possible, but no simpler.
 
--> There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
-
 -> Cursing is the only language all programmers speak fluently.
 
 -> If you make something idiot-proof, someone will just make a better idiot.
