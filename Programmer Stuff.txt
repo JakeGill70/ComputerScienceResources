@@ -22,6 +22,8 @@ Sayings
 ---------------------------------------------------------------------
 Quotes
 ---------------------------------------------------------------------
+-> "Premature optimization is the root of all evil in Programming." - Donald Knuth
+
 -> "If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program." - Linus Torvalds, Linux kernel coding style guide, Section 1, Paragraph 3
 
 -> "Don't put multiple statements on a single line unless you have something to hide" - Linus Torvalds, Linux kernal coding style guide, Section 1, Paragraph 6
@@ -34,6 +36,7 @@ Quotes
 
 -> "There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors." - Leon Bambrick paraphrasing Phil Karlton
 
+-> "Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann to Felix Smith
 
 ---------------------------------------------------------------------
 Laws, Principles, and Proofs
