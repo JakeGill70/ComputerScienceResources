@@ -38,6 +38,8 @@ Quotes
 
 -> "Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann to Felix Smith
 
+-> "[It]'s almost a law of the universe that solutions which are the first thing you think of, look sensible, and are easy to implement are often terrible, ineffective solutions that once implemented, will drag on civilization forever." - CGP Grey
+
 ---------------------------------------------------------------------
 Laws, Principles, and Proofs
 ---------------------------------------------------------------------
