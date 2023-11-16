@@ -42,6 +42,8 @@ Quotes
 
 ->  "You become a better programmer by being a bad programmer." - Theo Browne
 
+-> "Computers are good at following instructions, but not at reading your mind." - Donald Knuth
+
 ---------------------------------------------------------------------
 Laws, Principles, and Proofs
 ---------------------------------------------------------------------
