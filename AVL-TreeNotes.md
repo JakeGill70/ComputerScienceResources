@@ -16,34 +16,46 @@ The main constraint of an AVL tree is that the height of any two subtrees of any
 
 ## Node Definition
 ```CSharp
-internal struct AvlTreeNode<T> where T : IComparable<T> 
-{
-    internal T Data {get; set;}
-    internal AvlTreeNode? Left {get; set;}
-    internal AvlTreeNode? Right {get; set;}
-    internal int Height {get; set;}
-
-    internal AvlTreeNode(T data)
+internal class AvlTreeNode<T> where T : IComparable<T>
     {
-        this.Data = data;
-        this.Height = 0;
-    }
+        internal T Data { get; set; }
+        internal AvlTreeNode<T>? Left { get; set; }
+        internal AvlTreeNode<T>? Right { get; set; }
+        internal int Height { get; set; }
 
-    internal UpdateHeight()
-    {
-        // Recall that the height of a node in a tree 
-        // is exactly one higher than its highest child node.
-        int leftChildHeight = this.Left?.Height ?? -1;
-        int rightchildHeight = this.Right?.Height ?? -1;
-        int highestChild = Math.Max(leftChildHeight, rightchildHeight);
-        node.Height = highestChild + 1;
-    }
+        internal AvlTreeNode(T data)
+        {
+            this.Data = data;
+            this.Height = 0;
+        }
 
-    internal int GetBalanceFactor()
-    {
-        // See implementation details below...
+        internal void UpdateHeight()
+        {
+            // Recall that the height of a node in a tree 
+            // is exactly one higher than its highest child node.
+            int leftChildHeight = this.Left?.Height ?? -1;
+
+            int leftChildHeight;
+            if(this.Left == null)
+            {
+                leftChildHeight = -1;
+            }  
+            if(this.Left != null)
+            {
+                leftChildHeight = this.Left.Height;
+            }
+
+
+            int rightchildHeight = this.Right?.Height ?? -1;
+            int highestChild = Math.Max(leftChildHeight, rightchildHeight);
+            this.Height = highestChild + 1;
+        }
+
+        internal int GetBalanceFactor()
+        {
+            // See implementation details below...
+        }
     }
-}
 ```
 
 ## Balance Factor
@@ -64,31 +76,6 @@ Keeping the balance factor between `-1` and `+1` inclusive is how we satisfy the
 An AVL Tree implements everything found in a typical [ICollection<T>](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1), and by extension [IEnumerable<T>](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1). It is common to also include pre-, in-, and post- order traversals. You will need to overload the `Add()` and `Remove()` methods to also accept a root node to recursively perform these operations.
 
 Below is a C# implementation of how to add a node to a binary search tree without the additional AVL considerations. 
-```CSharp
-private AvlTreeNode<T> Add(AvlTreeNode<T> root, T data) 
-{
-    if (root == null)
-    {
-        root = new AvlTreeNode<T>(data);
-    }
-    else if (data.CompareTo(root.Data) == 0) 
-    {
-        root.CountOfData++;
-    }
-    else if (data.CompareTo(root.Data) < 0)
-    {
-        root.Left = Add(root.Left, data);
-    }
-    else if (data.CompareTo(root.Data) > 0)
-    {
-        root.Right = Add(root.Right, data);
-    }
-    return root;
-}
-```
-
-Below is a C# implementation of how to remove a node to a binary search tree without the additional AVL considerations. 
-
 ```CSharp
 private AvlTreeNode<T> Add(AvlTreeNode<T> root, T data) 
 {
@@ -212,7 +199,7 @@ graph LR;
 ```
  
 
-```Mermaid
+```mermaid
 graph LR;
     subgraph PostRotation;
         id20 --> id30["leftsLeftChild"];
