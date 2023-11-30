@@ -169,7 +169,7 @@ public AvlTreeNode<T>? PredecessorSearch(AvlTreeNode<T> root)
 ## AVL Tree Rotations
 Rotations allow us to maintain the balance of the AVL tree. Rotations come in two main flavors: left and right rotations. A right rotations pulls down on the right node, pulling the left node up. A left rotation pulls down on the left node, pulling the right node up.
 
-```Mermaid
+```mermaid
 graph LR;
     subgraph PostRotation;
         id10["current"];
@@ -219,7 +219,7 @@ graph LR;
 ```
 
 ### Right Rotation
-```Mermaid
+```mermaid
 flowchart TD
     id1["RotateRight(Node node)"] -->
     id2["Store left child in temp variable"] -->
@@ -230,7 +230,7 @@ flowchart TD
 ```
 ### Left Rotation
 
-```Mermaid
+```mermaid
 flowchart TD
     id1["RotateLeft(Node node)"] -->
     id2["Store right child in temp variable"] -->
@@ -250,7 +250,7 @@ There are 4 ways this constraint can be broken.
 3. Node's Right's Left child is causing the unbalance.
 4. Node's Right's Right child is causing the unbalance.
 
-```Mermaid
+```mermaid
 flowchart TD
     leftHeavy{"balanceFactor < -1"}
     case1Check{"Left.BalanceFactor <= 0"}
