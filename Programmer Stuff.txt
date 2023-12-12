@@ -62,7 +62,7 @@ Moore's Law -> The number of transistors on an integrated circuit will double in
 Knuth's Optimization Principle -> Premature optimization is the root of all evil.
 Hanlon's Razor -> Never attribute to malice that which is adequately explained by stupidity.
 Barker's proof -> Some flaws will not be discovered until after publication, regardless of proofreading.
-
+Bike-Shedding -> The time spent on any item of the agenda will be in inverse proportion to the sum (of money) involved.
 
 ---------------------------------------------------------------------
 The Ten Commandments of Egoless Programming
@@ -86,7 +86,6 @@ The Ten Commandments of Egoless Programming
 9. Don't be "the guy in the room." -> Don't be the guy coding in the dark office emerging only to buy cola. The guy in the room is out of touch, out of sight, and out of control and has no place in an open, collaborative environment.
 
 10. Critique code instead of people –> In short, be kind to the coder, not to the code. As much as possible, make all of your comments positive and oriented to improving the code. Relate comments to local standards, program specs, increased performance, etc.
-
 
 
 ---------------------------------------------------------------------
