@@ -49,6 +49,8 @@ Quotes
 
 -> "Computers are good at following instructions, but not at reading your mind." - Donald Knuth
 
+-> "What one programmer can do in one month, two programmers can do in two months." - Frederick Brooks
+
 ---------------------------------------------------------------------
 Laws, Principles, and Proofs
 ---------------------------------------------------------------------
