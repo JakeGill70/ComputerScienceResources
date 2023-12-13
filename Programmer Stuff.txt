@@ -6,6 +6,8 @@ DRY -> Don't repeat yourself
 WET -> Write Everything Twice
 RTFM -> Read the friendly manual
 FUBAR -> Fouled up beyond all repair
+NMP -> Not My Problem
+LGTM -> Looks Good To Me
 
 
 ---------------------------------------------------------------------
