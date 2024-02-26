@@ -55,6 +55,8 @@ Quotes
 
 -> "It is the struggle itself that is most important. We must strive to be more than we are. It does not matter that we will never reach our ultimate goal. The effort yields its own rewards." - Lt. Cmdr. Data, Star Trek TNG, Written by René Echevarria.
 
+-> "They did not realize that because of the quasi-reciprocal and circular nature of all improbability calculations, anything that was infintiely imporbable was actually very likely to happen almost immediaiately." - Douglas Adams, "Life, The Universe, and Everything"
+
 ---------------------------------------------------------------------
 Laws, Principles, and Proofs
 ---------------------------------------------------------------------
