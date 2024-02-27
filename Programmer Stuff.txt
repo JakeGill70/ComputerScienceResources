@@ -149,3 +149,13 @@ The Three Ways of DevOps
 2. Create, shorten and amplify feedback loops -> Establish an upstream feedback loop. Shorten the feedback loop. Amplify the feedback loop.
 
 3. Continued experimentation, in order to learn from mistakes, and achieve mastery -> Promote experimentation. Learn from success and failure. Constant improvement. Seek to achieve mastery through practice.
+
+---------------------------------------------------------------------
+Must Read Stories
+---------------------------------------------------------------------
+1. "We can't send mail more than 500 miles" - http://web.mit.edu/jemorris/humor/500-miles
+2. "The Inner JSON Effect" - https://thedailywtf.com/articles/the-inner-json-effect
+3. "Now that's what I call a Hacker", aka, "The best sys admin" - https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/
+4. "A mother fucking website" - https://motherfuckingwebsite.com/
+5. "A better mother fucking website" - http://bettermotherfuckingwebsite.com/
+6. "The grug brained developer" - https://grugbrain.dev/
