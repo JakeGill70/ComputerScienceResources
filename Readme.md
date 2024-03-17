@@ -79,6 +79,10 @@ Computer Science Resources
 >
 > -- Douglas Adams, "Life, The Universe, and Everything"
 
+> "Well, what happened? Did you not see it? Were you fucking with it? How did [some] snake get so mad, that it almost killed you?"
+>
+> -- Bill Burr, "You people are all the same"
+
 ---
 
 ## Laws, Principles, and Proofs
