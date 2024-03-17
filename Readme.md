@@ -191,3 +191,5 @@ the right, we value the items on the left more.
 1. ["A mother fucking website"](https://motherfuckingwebsite.com/)
 1. ["A better mother fucking website"](http://bettermotherfuckingwebsite.com/)
 1. ["The grug brained developer"](https://grugbrain.dev/)
+1. ["Excel rollercoaster"](https://www.youtube.com/watch?v=IrVA1BBHFHw)
+1. ["On the Turing completeness of PowerPoint"](https://www.youtube.com/watch?v=uNjxe8ShM-8)
