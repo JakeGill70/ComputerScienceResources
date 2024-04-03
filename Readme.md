@@ -9,6 +9,7 @@ Computer Science Resources
 - **FUBAR** - Fouled up beyond all repair
 - **NMP** - Not My Problem
 - **LGTM** - Looks Good To Me
+- **DGAF** - Doesn't Give A Farthing
 
 ---
 
