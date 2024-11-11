@@ -2,13 +2,14 @@ Computer Science Resources
 ===
 
 ## Acronyms
-- **KISS** - Keep it simple and straightforward
-- **DRY** - Don't repeat yourself
-- **WET** - Write Everything Twice
+
 - **RTFM** - Read the friendly manual
+- **LGTM** - Looks Good To Me
 - **FUBAR** - Fouled up beyond all repair
 - **NMP** - Not My Problem
-- **LGTM** - Looks Good To Me
+- **KISS** - Keep it simple and straightforward
+- **DRY** - Don't repeat yourself
+- **WET** - Write Everything Twice 
 - **DGAF** - Doesn't Give A Farthing
 
 ---
