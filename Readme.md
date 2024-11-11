@@ -81,6 +81,10 @@ Computer Science Resources
 >
 > -- Douglas Adams, "Life, The Universe, and Everything"
 
+> “We are stuck with technology when what we really want is just stuff that works.”
+>
+> -- Douglas Adams, "The Salmon of Doubt: Hitchhiking the Galaxy One Last Time"
+
 > "Well, what happened? Did you not see it? Were you fucking with it? How did [some] snake get so mad, that it almost killed you?"
 >
 > -- Bill Burr, "You people are all the same"
