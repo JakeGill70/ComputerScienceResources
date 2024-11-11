@@ -6,10 +6,10 @@ Computer Science Resources
 - **RTFM** - Read the friendly manual
 - **LGTM** - Looks Good To Me
 - **FUBAR** - Fouled up beyond all repair
-- **WET** - Write Everything Twice 
 - **NMP** - Not My Problem
 - **KISS** - Keep it simple and straightforward
 - **DRY** - Don't repeat yourself
+- **WET** - Write Everything Twice 
 - **DGAF** - Doesn't Give A Farthing
 
 ---
