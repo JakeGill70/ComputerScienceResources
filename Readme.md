@@ -11,7 +11,9 @@ Computer Science Resources
 - **DRY** - Don't repeat yourself
 - **WET** - Write Everything Twice 
 - **DGAF** - Doesn't Give A Farthing
-
+- **PICNIC** - Problem in chair, not in computer
+- **ID10T Error** - The user is an idiot
+- 
 ---
 
 ## Sayings
