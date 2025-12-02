@@ -13,7 +13,7 @@ Computer Science Resources
 - **DGAF** - Doesn't Give A Farthing
 - **PICNIC** - Problem in chair, not in computer
 - **ID10T Error** - The user is an idiot
-- 
+
 ---
 
 ## Sayings
