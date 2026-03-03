@@ -18,6 +18,19 @@ Computer Science Resources
 - **LMK** - Let me Know
 - **FTFY** - Fixed That For You
 - **ICYMI** - In Case Your Missed It
+- **MVP** - Minimum Viable Product
+- **POC** - Proof of Concept
+- **CI/CD** - Continuous Integration/Continous Deployment
+- **WIP** - Work in Progress
+- **TDD** - Test Driven Development
+- **FP** - Functional Programming
+- **OOP** - Object-Oriented Programming
+- **CRUD** - Create, Read, Update, Delete (Operations)
+- **ACID** - Atomicity, Consistency, Isolation, Durability
+- **API** - Application Programmer Interface
+- **SDK** - Software Development Kit
+- **GUI** - Graphical User Interface
+- **CLI** - Command Line Interface
 
 ---
 
