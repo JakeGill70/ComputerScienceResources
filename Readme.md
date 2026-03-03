@@ -13,6 +13,11 @@ Computer Science Resources
 - **DGAF** - Doesn't Give A Farthing
 - **PICNIC** - Problem in chair, not in computer
 - **ID10T Error** - The user is an idiot
+- **YAGNI** - You Ain't Gonna Need It
+- **JIT** - Just In Time
+- **LMK** - Let me Know
+- **FTFY** - Fixed That For You
+- **ICYMI** - In Case Your Missed It
 
 ---
 
